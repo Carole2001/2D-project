@@ -559,7 +559,7 @@ void person (){
 }
 void star (){
 
-//star
+
        glPushMatrix();
         glColor3f(2.9, 1.5, 0.9);
        glTranslatef(-0.9,3.76, 0.35);
