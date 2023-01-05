@@ -238,7 +238,7 @@ void snow (){
 
 }
 void person (){
-    // person's body
+    
  glLoadIdentity ();
     glTranslatef    (0.9, -3.7, -15.0);
 
