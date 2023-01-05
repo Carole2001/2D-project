@@ -141,7 +141,7 @@ void tree (){
       glVertex3f(-2.0f,-2.0f, 2.0f);
    glEnd();
 }
-
+//snow
 void snow (){
 
     glLoadIdentity ();
