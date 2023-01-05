@@ -614,18 +614,6 @@ void display (void)
     star();
     moon();
 
-
-
-
-
-
-
-
-
-
-
-
-
       glFlush();
 
    glutSwapBuffers();
