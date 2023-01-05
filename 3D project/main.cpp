@@ -237,6 +237,7 @@ void snow (){
 
 
 }
+// person's body
 void person (){
     
  glLoadIdentity ();
