@@ -28,7 +28,7 @@ void tree (){
     glTranslatef    (0.0, 0.0, -15.0);
     glRotatef(60.0, 0 , 1 ,0);
     glRotatef(zRotated, 0 , 1 ,0);
-
+    //christmas tree
     glBegin(GL_TRIANGLES);           // Begin drawing the pyramid with 4 triangles
       // Front
       glColor3f(1.0f, 0.0f, 0.0f);     // Red
